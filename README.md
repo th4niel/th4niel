@@ -12,7 +12,13 @@ I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan Univers
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,go" />
+    <img src="https://skillicons.dev/icons?i=py,go" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
 </p>
 
