@@ -32,4 +32,5 @@ I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan Univers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thaniel23-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thaniel23)
 [![Email](https://img.shields.io/badge/Email-yuihara23@gmail.com-orange?style=flat-square&logo=gmail)](mailto:yuihara23@gmail.com)
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=th4niel&layout=compact&theme=react&border_radius=10&custom_title=Preferred%20Languages)
 
