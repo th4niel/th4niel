@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-I am Nathaniel a.k.a th4N1eL majoring in Information Management, Kunshan University. Nice To Meet You~
+I am Nathaniel a.k.a Nathaniel Edwin majoring in Information Management, Kunshan University. Nice To Meet You~
 
 ---
 
